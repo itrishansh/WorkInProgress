@@ -1,0 +1,6 @@
+[x]Implement hooks for syscall execve
+[ ]Redirect output of hooks to msgq or fifo
+[ ]Implement hooks for execle
+[ ]Implement hooks for execvpe
+[ ]Implement reader program with filter support so we can extract build system calls
+[ ]Implememt support for storing enviournment variables

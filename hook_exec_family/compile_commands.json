@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/local/mnt/workspace/test/hook_exec_family/build",
+  "command": "/usr/bin/cc  -Dhookexecfamily_EXPORTS -I/local/mnt/workspace/test/hook_exec_family/include  -fPIC   -o CMakeFiles/hookexecfamily.dir/src/hook.c.o   -c /local/mnt/workspace/test/hook_exec_family/src/hook.c",
+  "file": "/local/mnt/workspace/test/hook_exec_family/src/hook.c"
+},
+{
+  "directory": "/local/mnt/workspace/test/hook_exec_family/build",
+  "command": "/usr/bin/cc   -I/local/mnt/workspace/test/hook_exec_family/include    -o CMakeFiles/testexeclp.dir/test/execlp.c.o   -c /local/mnt/workspace/test/hook_exec_family/test/execlp.c",
+  "file": "/local/mnt/workspace/test/hook_exec_family/test/execlp.c"
+},
+{
+  "directory": "/local/mnt/workspace/test/hook_exec_family/build",
+  "command": "/usr/bin/cc   -I/local/mnt/workspace/test/hook_exec_family/include    -o CMakeFiles/testexecl.dir/test/execl.c.o   -c /local/mnt/workspace/test/hook_exec_family/test/execl.c",
+  "file": "/local/mnt/workspace/test/hook_exec_family/test/execl.c"
+},
+{
+  "directory": "/local/mnt/workspace/test/hook_exec_family/build",
+  "command": "/usr/bin/cc   -I/local/mnt/workspace/test/hook_exec_family/include    -o CMakeFiles/testexecv.dir/test/execv.c.o   -c /local/mnt/workspace/test/hook_exec_family/test/execv.c",
+  "file": "/local/mnt/workspace/test/hook_exec_family/test/execv.c"
+},
+{
+  "directory": "/local/mnt/workspace/test/hook_exec_family/build",
+  "command": "/usr/bin/cc   -I/local/mnt/workspace/test/hook_exec_family/include    -o CMakeFiles/testexecvp.dir/test/execvp.c.o   -c /local/mnt/workspace/test/hook_exec_family/test/execvp.c",
+  "file": "/local/mnt/workspace/test/hook_exec_family/test/execvp.c"
+}
+]
