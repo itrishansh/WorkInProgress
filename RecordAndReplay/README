@@ -1,0 +1,6 @@
+## Random Notes
+In OnePlus7, touch screen input file is /dev/input/event4.
+
+Issues:
+ - Record does not exit on CTRL+C. It requires an extra touch event to exit from read syscall.
+   Possible Fix can be, stop restarting syscall on signal or poll fd for available data.
